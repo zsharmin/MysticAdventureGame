@@ -14,7 +14,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/zsharmin/MysticWoodsAdventure.git
+git clone (https://github.com/zsharmin/MysticAdventureGame.git)
 cd MysticWoodsAdventure
 Compile the Code
 bash
